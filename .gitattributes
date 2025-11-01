@@ -1,2 +1,2 @@
-# Example: Force HTML detection
-* linguist-language=Typescript
+/frontend-angular/     → Angular app
+/backend-node/         → Express/Node backend
