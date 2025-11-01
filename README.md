@@ -1,7 +1,7 @@
 # External Examiner Automation & Reporting Portal
   
 This is a project built with  using [Convex](https://convex.dev) as its backend.
- You can find docs about Chef with useful information like how to deploy to production [here](https://docs.convex.dev/chef).
+
   
 This project is connected to the Convex deployment named [`determined-tern-86`](https://dashboard.convex.dev/d/determined-tern-86).
   
